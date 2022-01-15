@@ -62,3 +62,4 @@ The same customisations can be implemented in the skills and main sections. For 
 If you would like to add any skill which is not mentioned, then you will need to download a svg for  the skill logo, for that you can refer [here](https://github.com/codewithvk/React-simple-portfolio/blob/master/src/SkillData.js#L77).
 
 
+# portfolio-website
