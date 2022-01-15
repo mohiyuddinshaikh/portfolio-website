@@ -1,36 +1,29 @@
 const workHistory = [
     {
-        companyName : 'WeCommit',
-        role: 'SDE Intern',
-        duration: "July'21 – Oct'21",
+        companyName : 'Techzilla India',
+        role: 'Full Stack Developer',
+        duration: "Nov'19 – April'21",
         workDes: [
-            'Build SocicalSpace B2B product and improved 3% performance by refactoring database design and modified API end - points.',
-            'Designed and developed REST API’s to integrate user interaction with Twitter and Linkedin on server.',
+            'Built a complete EdTech solution using MERN stack with just 2 other team members.',
+            'Built MCQ test platform, and many more complex, responsive and reusable UI elements.',
+            'Improved accessibility and performance by 30% ( Chrome lighthouse statistics ).',
+            'Built Chat feature using SocketIO, Login system using Firebase, and wrote safe and secure APIs for the platform.'
         ],
-        exposer: ["React", "Redux Saga ", "NodeJs", "ExpressJs", "MongoDB", "Heroku", "Twitter API’s", "LinkedIn API"] ,
-        link: 'https://wecommit.in/',
+        exposer: ["React", "Redux ", "NodeJs", "OAuth", "ExpressJs", "MongoDB", "Heroku", "Firebase",  "LinkedIn API"] ,
+        link: 'https://techzillaindia.com/',
     },
     {
-        companyName: 'EnR Consultancy',
-        role: 'SDE Intern',
-        duration: "Mar'21 – Apr'21",
+        companyName: 'Expertrons',
+        role: 'Software Developer',
+        duration: "July'21 – Present",
         workDes: [
-            'Developed full stack B2B admin portal web application using Reactjs,Mongodb, Nodejs.',
-            'Designed and developed REST APIs to increase user interaction on the server.',
+            `Lead backend in our company's key feature "Academy +".`,
+            'Received 3 "Employee of the Month" awards in 5 months of joining amongst the team of 45 developers.',
+            'Assisted in bringing down app crashes from 56% to 98%.',
+            'Single-handedly built a user screening feature that has been used by hundreds of users.'
         ],
-        exposer: ["React ", "NodeJs", "MongoDB" , "ContextAPI"],
-        link: 'https://engagenreap.com/',
-    },
-    {
-        companyName: "GSSOC'21",
-        role: 'Student Mentor',
-        duration: "Feb'21 – Apr'21",
-        workDes: [
-            'Mentored 100+ student with their first pull request in open source',
-            'Maintained code base of girls script official & Kurroku project',
-        ],
-        exposer: ["React ", "NodeJs", "MongoDB", "ExpressJS"],
-        link: 'https://gssoc.girlscript.tech/',
+        exposer: ["React", "NodeJs", "Jira", "CI/CD", "MongoDB", "ExpressJs", "Mongoose" ],
+        link: 'https://www.expertrons.com/',
     },
 ];
 

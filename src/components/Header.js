@@ -20,11 +20,11 @@ const Header = () => {
             Skill
           </a>
         </li>
-        <li>
+        {/* <li>
           <a href='#contact' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>
             Contact
           </a>
-        </li>
+        </li> */}
         
         <li>
           <a href={RESUME_PATH} target='_blank' rel='noreferrer' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg'>

@@ -18,7 +18,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <section className='my-16 px-5 md:my-32 flex flex-col flex-wrap space-y-16 md:space-y-0 patterns'>
+    <section className='mt-2 mb-16 px-5 md:mt-8 md:mb-32 flex flex-col flex-wrap space-y-16 md:space-y-0 patterns'>
       <div className='ml-auto w-72 md:w-96 lg:w-2/5'>
         <div className='container' ref={container}></div>
       </div>
