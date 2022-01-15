@@ -1,7 +1,7 @@
 const projects = [
   {
     title: 'Recipe App',
-    image: './images/portfolio2.png',
+    image: './images/recipenew.jpeg',
     description: "One stop destination for all your food cravings. Choose recipes from recommendations, or search one yourself while the app autosuggests as you type. Liked what you see? You can save it for later as well",
     tools: ['Android', 'ReactJs', 'Nodejs', 'MongoDB', 'Express', 'Spoonacular API', 'Redux'],
     github: 'https://github.com/mohiyuddinshaikh/recipe-app',
@@ -9,7 +9,7 @@ const projects = [
   },
   {
     title: 'Socket Chat App',
-    image: './images/portfolio2.png',
+    image: './images/chat-chat.png',
     description: "Chat application built using Socketio. Features include Real-time messaging, Multiple rooms, and Password protected rooms.",
     tools: ['ReactJs', 'SocketIO', 'Nodejs', 'MaterialUI'],
     github: 'https://github.com/mohiyuddinshaikh/chat-app-backend',
@@ -17,7 +17,7 @@ const projects = [
   },
   {
     title: 'Weather Tracker',
-    image: './images/portfolio2.png',
+    image: './images/weather.png',
     description: "Displays weather information of any US region based on ZIP code. Features include 7 Day forecast chart, current day highlights, and responsive design",
     tools: ['ReactJs', 'Redux', 'TailwindCSS', 'MaterialUI'],
     github: 'https://github.com/mohiyuddinshaikh/weather-tracker',
@@ -25,7 +25,7 @@ const projects = [
   },
   {
     title: 'React Tic tac Toe',
-    image: './images/portfolio2.png',
+    image: './images/tictac.jpg',
     description: "Tic tac toe built using React. Play with either against a competitor or against computer",
     tools: ['ReactJs', 'TailwindCSS', 'MaterialUI'],
     // github: 'https://github.com/mohiyuddinshaikh/weather-tracker',
@@ -33,7 +33,7 @@ const projects = [
   },
   {
     title: 'Starbucks Concept',
-    image: './images/portfolio2.png',
+    image: './images/starbuck.png',
     description: "Static webpage of Starbucks showcasing front end design skills using HTML, Vanilla CSS, and a hint of Vanilla JS",
     tools: ['HTML', 'CSS', 'Javascript'],
     github: 'https://github.com/mohiyuddinshaikh/starbucks-concept',
