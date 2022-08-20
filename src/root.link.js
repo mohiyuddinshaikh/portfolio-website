@@ -1,4 +1,4 @@
-export const RESUME_PATH = 'https://drive.google.com/file/d/1mblEJWiQnJzXc1DNUgsGXD5-AqkOJN4r/view?usp=sharing';
+export const RESUME_PATH = 'https://drive.google.com/file/d/11uoFg__iSBrQ2hyvYVL9b9vC460thSfe/view?usp=sharing';
 export const GITHUB_USERNAME = 'mohiyuddinshaikh';
 export const LINKEDIN_USERNAME = 'mohiyuddinshaikh';
 export const FIRST_NAME = 'Mohiyuddin';

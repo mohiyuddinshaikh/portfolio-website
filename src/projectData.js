@@ -9,6 +9,15 @@ const projects = [
     link: "https://trivin-quiz-moin.netlify.app/",
   },
   {
+    title: "UNO Webapp",
+    image: "./images/uno.png",
+    description:
+      "Most popular card game 'UNO' for multiple players based on official rules.",
+    tools: ["ReactJs", "SASS", "Ant Design"],
+    github: "https://github.com/mohiyuddinshaikh/uno",
+    link: "https://mohiyuddins-uno.netlify.app/",
+  },
+  {
     title: "Recipe App",
     image: "./images/recipenew.jpeg",
     description:
@@ -25,6 +34,7 @@ const projects = [
     github: "https://github.com/mohiyuddinshaikh/recipe-app",
     link: "https://www.dropbox.com/s/8ojixfqmz4qkcvb/recipe-app.apk?dl=0",
   },
+  
   {
     title: "Socket Chat App",
     image: "./images/chat-chat.png",
